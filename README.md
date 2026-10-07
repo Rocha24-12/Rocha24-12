@@ -31,7 +31,6 @@
   <img height="170" src="skills.svg"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rocha24-12&background=0b1a5c&stroke=2f80ed&ring=87ceeb&fire=56ccf2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=87ceeb&sideLabels=bbdefb&dates=bbdefb&border=2f80ed"/> 
 </p>
 <!-- ============ 6. FRANJA FINAL ============ --> 
 <p align="center"> 
