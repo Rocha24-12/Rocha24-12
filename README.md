@@ -27,8 +27,8 @@
 </p> 
 <!-- ============ 5. ESTADÍSTICAS ============ --> 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rocha24-12&show_icons=true&border_color=2f80ed&bg_color=0b1a5c&title_color=87ceeb&icon_color=56ccf2&text_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocha24-12&layout=compact&border_color=2f80ed&bg_color=0b1a5c&title_color=87ceeb&text_color=ffffff"/>
+  <img height="170" src="stats.svg"/>
+  <img height="170" src="skills.svg"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rocha24-12&background=0b1a5c&stroke=2f80ed&ring=87ceeb&fire=56ccf2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=87ceeb&sideLabels=bbdefb&dates=bbdefb&border=2f80ed"/> 
